@@ -147,5 +147,7 @@ for student_id, data in students.items():
 ```
 ## OUTPUT
 <img width="223" height="658" alt="image" src="https://github.com/user-attachments/assets/b5d3cd0d-6ee7-48e1-aa7e-3f51a132ee4c" />
+
+
 ## Result:
 This experiment demonstrates a practical approach to monitoring student attention using computer vision techniques. MediaPipe Face Mesh provides accurate facial landmark detection, enabling effective head pose estimation for classroom analytics.
